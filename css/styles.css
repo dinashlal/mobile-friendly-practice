@@ -16,7 +16,7 @@
     background-color: rgb(9, 158, 196);
     color: white;
     text-align: center;
-
+    font-size: 35px
 }
 
 #content {
@@ -33,6 +33,10 @@
     text-align: center;
 }
 
-#h1 {
-    background-color: crimson;
+h1 {
+    font-size: 25px
+}
+
+.text-right {
+    text-align: right;
 }
