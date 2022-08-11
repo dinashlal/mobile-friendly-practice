@@ -1,0 +1,38 @@
+
+#body {
+    background-color: rgb(1, 1, 1);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+    background-color: #0ba1bc;
+    color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right:auto; 
+}
+
+#header {
+    padding: 50px;
+    background-color: rgb(9, 158, 196);
+    color: white;
+    text-align: center;
+
+}
+
+#content {
+    padding: 10px;
+    width: 800px; 
+}
+
+#footer {
+    padding: 10px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    color: white; 
+    text-align: center;
+}
+
+#h1 {
+    background-color: crimson;
+}
